@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あなたのことしか考えられない",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T20:15:00.894204Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたのことしか考えられない",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_あなたのことしか考えられない_サンボマスター.txt"
+    }
+  ]
+}
